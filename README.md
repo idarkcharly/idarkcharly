@@ -1,5 +1,6 @@
 ######
-Hi there 👋
+## Hi there 👋
+#
 ⭐ABOUT ME⭐
 #
 ![CHARLY1307_PROFILE200x200](https://user-images.githubusercontent.com/82918675/136677470-724ade5a-5024-4ea6-8e5d-c8f9bd21ae9d.png)
