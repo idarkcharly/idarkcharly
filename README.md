@@ -22,14 +22,11 @@
 
 ![Charly_HAPPY](https://github.com/user-attachments/assets/280dbee4-d59a-4c75-8d98-eb37078b48e9)
 
-</td>
 <td align="center" style="vertical-align: middle;">
-
-### 🌐 My Website  
-*(Coming soon — GitHub Pages)*  
-🔗 charlymodding.online
-
+  ### 🌐 My Website
+  [🔗 charlymodding.online](https://charlymodding.online)
 </td>
+
 </tr>
 </table>
 
