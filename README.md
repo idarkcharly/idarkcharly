@@ -27,7 +27,7 @@
 
 ### 🌐 My Website  
 *(Coming soon — GitHub Pages)*  
-🔗 https://soon-github-page-url-here  
+🔗 charlymodding.online
 
 </td>
 </tr>
