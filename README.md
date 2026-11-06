@@ -13,26 +13,21 @@
 - 🇲🇽 I´m from MX
 -->
 ## Hi there 👋
-
 <div align="center">
-
 <table>
 <tr>
-<td>
-
-![Charly_HAPPY](https://github.com/user-attachments/assets/280dbee4-d59a-4c75-8d98-eb37078b48e9)
-
-<td align="center" style="vertical-align: middle;">
-  ### 🌐 My Website
-  [🔗 charlymodding.online](https://charlymodding.xyz)
+<td align="center" width="50%">
+<img src="https://github.com/user-attachments/assets/280dbee4-d59a-4c75-8d98-eb37078b48e9" alt="Charly Happy" width="220">
 </td>
-
+<td align="center" width="50%">
+<h2>🌐 My Website</h2>
+<a href="https://charlymodding.xyz">
+<strong>charlymodding.xyz 🔗</strong>
+</a>
+</td>
 </tr>
 </table>
-
 </div>
-
----
 
 # ⭐ About Me
 
