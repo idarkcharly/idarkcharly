@@ -24,7 +24,7 @@
 
 <td align="center" style="vertical-align: middle;">
   ### 🌐 My Website
-  [🔗 charlymodding.online](https://charlymodding.online)
+  [🔗 charlymodding.online](https://charlymodding.xyz)
 </td>
 
 </tr>
